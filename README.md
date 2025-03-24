@@ -1,2 +1,2 @@
 # Library
-A desktop application that allows librarians to manage easly loans and fines.
+A desktop application that allows librarians to manage easily loans and fines.
